@@ -1,0 +1,3 @@
+Admin Login:
+Email: admin@kedarsyun.gov.np
+Password:Admin@2083
